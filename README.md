@@ -1,2 +1,2 @@
 # Snowy
-better snow for Minecraft
+plugin that adds better snow for Minecraft
